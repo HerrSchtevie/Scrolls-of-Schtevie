@@ -1,0 +1,81 @@
+[
+  {
+    "title": "Journals of Jyggalag",
+    "description": "Journals of Jyggalag (JOJ) is a NSFW Skyrim modlist combining stunning visuals, expanded quests, and rich lore integration for a cohesive and immersive experience. Featuring enhanced graphics, detailed landscapes, refined character models, and countless new storylines, JOJ transforms Skyrim into a vibrant, living world. With balanced gameplay improvements and performance tweaks, it offers a polished and captivating journey for both exploration and storytelling.",
+    "author": "Herr Schtevie",
+    "maintainers": [
+      "github/HerrSchtevie"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "DLC Required"
+    ],
+    "nsfw": true,
+    "utility_list": false,
+    "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/HerrSchtevie/Journals-of-Jyggalag/main/JOJ%20Wallpaper.png",
+      "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Journals-of-Jyggalag-ReadMe",
+      "download": "https://authored-files.wabbajack.org/Journals%20of%20Jyggalag.wabbajack_8cfcf42c-bb43-48db-8296-c6798f6a5714",
+      "machineURL": "Journals_of_Jyggalag",
+      "discordURL": "https://discord.gg/scrollsofschtevie",
+      "websiteURL": ""
+    },
+    "download_metadata": {
+      "Hash": "iH2biXJGrog=",
+      "Size": 2548319723,
+      "NumberOfArchives": 3565,
+      "SizeOfArchives": 321788948619,
+      "NumberOfInstalledFiles": 694823,
+      "SizeOfInstalledFiles": 614267339669,
+      "TotalSize": 936056288288
+    },
+    "version": "3.5.3",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-08-31T19:21:26.8815607Z",
+    "repositoryName": ""
+  },
+  {
+    "title": "Tomes of Talos",
+    "description": "Tomes of Talos is a lore-rich, SFW Skyrim modlist spun from the foundations of Journals of Jyggalag, designed to deliver a stable, immersive, and cohesive experience focused on storytelling, exploration, and visual fidelity. Every addition has been hand-picked to enhance Skyrim\u0027s atmosphere without breaking its lore or tone.",
+    "author": "Herr Schtevie",
+    "maintainers": [
+      "github/HerrSchtevie"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "DLC Required"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/HerrSchtevie/Journals-of-Jyggalag/main/TOT%20wallpaper.png",
+      "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Tomes-of-Talos-ReadMe",
+      "download": "https://authored-files.wabbajack.org/Tomes%20of%20Talos.wabbajack_4e9512ac-c349-42c0-a828-271001b17731",
+      "machineURL": "Tomes_of_Talos",
+      "discordURL": "https://discord.gg/scrollsofschtevie",
+      "websiteURL": ""
+    },
+    "download_metadata": {
+      "Hash": "uPRtE9fSao4=",
+      "Size": 2345279234,
+      "NumberOfArchives": 3155,
+      "SizeOfArchives": 259224882180,
+      "NumberOfInstalledFiles": 556003,
+      "SizeOfInstalledFiles": 455388524280,
+      "TotalSize": 714613406460
+    },
+    "version": "1.2.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "0001-01-01T00:00:00",
+    "repositoryName": ""
+  }
+
+]
