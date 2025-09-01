@@ -55,19 +55,19 @@
     "links": {
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Journals-of-Jyggalag/main/TOT%20wallpaper.png",
       "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Tomes-of-Talos-ReadMe",
-      "download": "https://authored-files.wabbajack.org/Tomes%20of%20Talos.wabbajack_9d80ca3d-db88-4611-a626-d6c0aeae15c6",
+      "download": "https://authored-files.wabbajack.org/Tomes%20of%20Talos.wabbajack_0247698c-2929-4568-aadf-b6bc82e74156",
       "machineURL": "Tomes_of_Talos",
       "discordURL": "https://discord.gg/scrollsofschtevie",
       "websiteURL": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki"
     },
     "download_metadata": {
-      "Hash": "sEV6tqQMrpQ=",
-      "Size": 1761691229,
-      "NumberOfArchives": 3158,
-      "SizeOfArchives": 259607979442,
-      "NumberOfInstalledFiles": 555253,
-      "SizeOfInstalledFiles": 454767557151,
-      "TotalSize": 714375536593
+      "Hash": "Gl24JVQrHyA=",
+      "Size": 699713101,
+      "NumberOfArchives": 3157,
+      "SizeOfArchives": 259376686586,
+      "NumberOfInstalledFiles": 555254,
+      "SizeOfInstalledFiles": 454767558049,
+      "TotalSize": 714144244635
     },
     "version": "1.2.1"
   }
