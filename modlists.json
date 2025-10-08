@@ -9,7 +9,13 @@
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
-      "DLC Required"
+      "DLC Required",
+      "NSFW",
+      "BFCO",
+      "Enairim",
+      "Legacy of the Dragonborn",
+      "New Quests",
+      "Ostim"
     ],
     "nsfw": true,
     "utility_list": false,
@@ -25,15 +31,15 @@
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "oWE9BFXj+9E=",
-      "Size": 916445841,
-      "NumberOfArchives": 3567,
-      "SizeOfArchives": 321940735983,
-      "NumberOfInstalledFiles": 694084,
-      "SizeOfInstalledFiles": 613607298857,
-      "TotalSize": 935548034840
+      "Hash": "39FRtmPWt80=",
+      "Size": 1032595976,
+      "NumberOfArchives": 3719,
+      "SizeOfArchives": 309555396511,
+      "NumberOfInstalledFiles": 704423,
+      "SizeOfInstalledFiles": 620860291352,
+      "TotalSize": 930415687863
     },
-    "version": "3.5.3",
+    "version": "4.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-08-31T19:21:26.8815607Z",
     "repositoryName": "Scrolls_of_Schtevie"
