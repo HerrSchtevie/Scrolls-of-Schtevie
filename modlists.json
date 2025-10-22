@@ -54,7 +54,13 @@
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
-      "DLC Required"
+      "DLC Required",
+      "SFW",
+      "BFCO",
+      "Enairim",
+      "Legacy of the Dragonborn",
+      "New Quests",
+      "NeverNude"
     ],
     "nsfw": false,
     "utility_list": false,
@@ -64,21 +70,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Journals-of-Jyggalag/main/TOT%20wallpaper.png",
       "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Tomes-of-Talos-ReadMe",
-      "download": "https://authored-files.wabbajack.org/Tomes%20of%20Talos.wabbajack_6f9d6255-a0cd-498e-9390-71a0b677419b",
+      "download": "https://authored-files.wabbajack.org/Tomes%20of%20Talos.wabbajack_0add0a66-39ed-420d-8fd4-956541d60da2",
       "machineURL": "TomesOfTalos",
       "discordURL": "https://discord.gg/themoddingbordello",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "cBLNgO+epYU=",
-      "Size": 691985474,
-      "NumberOfArchives": 3158,
-      "SizeOfArchives": 259376691243,
-      "NumberOfInstalledFiles": 555186,
-      "SizeOfInstalledFiles": 454633367293,
-      "TotalSize": 714010058536
+      "Hash": "tYAm7dMUTj0=",
+      "Size": 751071189,
+      "NumberOfArchives": 3391,
+      "SizeOfArchives": 268440809559,
+      "NumberOfInstalledFiles": 579151,
+      "SizeOfInstalledFiles": 484875032965,
+      "TotalSize": 753315842524
     },
-    "version": "1.2.1",
+    "version": "2.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "0001-01-01T00:00:00",
     "repositoryName": "Scrolls_of_Schtevie"
