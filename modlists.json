@@ -46,7 +46,7 @@
   },
   {
     "title": "Tomes of Talos",
-    "description": "Tomes of Talos is a lore-rich, SFW Skyrim modlist spun from the foundations of Journals of Jyggalag, designed to deliver a stable, immersive, and cohesive experience focused on storytelling, exploration, and visual fidelity. Every addition has been hand-picked to enhance Skyrim\u0027s atmosphere without breaking its lore or tone.",
+    "description": "Tomes of Talos (TOT) is a lore-rich, SFW Skyrim modlist spun from the foundations of Journals of Jyggalag, designed to deliver a stable, immersive, and cohesive experience focused on storytelling, exploration, and visual fidelity. Every addition has been hand-picked to enhance Skyrim\u0027s atmosphere without breaking its lore or tone.",
     "author": "Herr Schtevie",
     "maintainers": [
       "github/HerrSchtevie"
@@ -88,6 +88,50 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "0001-01-01T00:00:00",
     "repositoryName": "Scrolls_of_Schtevie"
+  },
+    {
+    "title": "Hymns of Hircine",
+    "description": "Hymns of Hircine (HOH) is an immersive challenge modlist blending survival mechanics, MCO-driven combat, and NSFW elements for a raw and unforgiving experience. Featuring overhauled visuals, harsh survival systems, dynamic encounters, and visceral gameplay, HOH transforms Skyrim into a savage, living wilderness. With balanced progression, refined immersion mods, and adult themes interwoven naturally into the world, it offers a challenging yet captivating journey of endurance, blood, and desire.",
+    "author": "Herr Schtevie",
+    "maintainers": [
+      "github/HerrSchtevie"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "DLC Required",
+      "NSFW",
+      "Hardcore",
+      "Survival",
+      "Legacy of the Dragonborn",
+      "New Quests",
+      "Ostim"
+    ],
+    "nsfw": true,
+    "utility_list": false,
+    "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/pictures/HOH%20Wallpaper.webp",
+      "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Hymns-of-Hircine-ReadMe",
+      "download": "https://authored-files.wabbajack.org/Hymns%20of%20Hircine.wabbajack_74fda46a-490f-491a-a679-93848346f033",
+      "machineURL": "HymnsOfHircine",
+      "discordURL": "https://discord.gg/themoddingbordello",
+      "websiteURL": ""
+    },
+    "download_metadata": {
+      "Hash": "WIPrl1D1Gm0=",
+      "Size": 1122559468,
+      "NumberOfArchives": 3709,
+      "SizeOfArchives": 309051688628,
+      "NumberOfInstalledFiles": 705243,
+      "SizeOfInstalledFiles": 616369729306,
+      "TotalSize": 925421417934
+    },
+    "version": "0.9.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-08-31T19:21:26.8815607Z",
+    "repositoryName": "Scrolls_of_Schtevie"
   }
-
 ]
