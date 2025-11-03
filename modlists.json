@@ -70,19 +70,19 @@
     "links": {
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Journals-of-Jyggalag/main/TOT%20wallpaper.png",
       "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Tomes-of-Talos-ReadMe",
-      "download": "https://authored-files.wabbajack.org/Tomes%20of%20Talos.wabbajack_e8ecc2dd-582b-49f9-9145-d1591f54bd20",
+      "download": "https://authored-files.wabbajack.org/Tomes%20of%20Talos.wabbajack_2f29e11e-ac6e-4815-82be-b63a72e7c60f",
       "machineURL": "TomesOfTalos",
       "discordURL": "https://discord.gg/themoddingbordello",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "PYk+/A3PRlE=",
-      "Size": 751144056,
+      "Hash": "S8CeRjl1qUo=",
+      "Size": 751143995,
       "NumberOfArchives": 3392,
       "SizeOfArchives": 268625778495,
       "NumberOfInstalledFiles": 579906,
-      "SizeOfInstalledFiles": 486527852089,
-      "TotalSize": 755153630584
+      "SizeOfInstalledFiles": 486527851962,
+      "TotalSize": 755153630457
     },
     "version": "2.0.4",
     "dateCreated": "1970-01-01T00:00:00Z",
