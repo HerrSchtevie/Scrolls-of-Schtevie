@@ -25,21 +25,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Journals-of-Jyggalag/main/JOJ%20Wallpaper.png",
       "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Journals-of-Jyggalag-ReadMe",
-      "download": "https://authored-files.wabbajack.org/Journals%20of%20Jyggalag.wabbajack_c3e85d09-8784-4d2f-bf50-e53453e17f5f",
+      "download": "https://authored-files.wabbajack.org/Journals%20of%20Jyggalag.wabbajack_79470440-c84d-42b0-b333-5d981c3bab64",
       "machineURL": "JournalsOfJyggalag",
       "discordURL": "https://discord.gg/themoddingbordello",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "4ZNuRSYNdvg=",
-      "Size": 1278676663,
+      "Hash": "pS+hu4rvJsc=",
+      "Size": 1278493501,
       "NumberOfArchives": 3721,
-      "SizeOfArchives": 310155981081,
-      "NumberOfInstalledFiles": 706265,
-      "SizeOfInstalledFiles": 622046431025,
-      "TotalSize": 932202412106
+      "SizeOfArchives": 310167638258,
+      "NumberOfInstalledFiles": 706435,
+      "SizeOfInstalledFiles": 622026183855,
+      "TotalSize": 932193822113
     },
-    "version": "4.1.2",
+    "version": "4.1.3",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-08-31T19:21:26.8815607Z",
     "repositoryName": "Scrolls_of_Schtevie"
@@ -70,21 +70,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Journals-of-Jyggalag/main/TOT%20wallpaper.png",
       "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Tomes-of-Talos-ReadMe",
-      "download": "https://authored-files.wabbajack.org/Tomes%20of%20Talos.wabbajack_4c6b9d12-9635-4d0f-9972-c2b0917b9133",
+      "download": "https://authored-files.wabbajack.org/Tomes%20of%20Talos.wabbajack_e8ecc2dd-582b-49f9-9145-d1591f54bd20",
       "machineURL": "TomesOfTalos",
       "discordURL": "https://discord.gg/themoddingbordello",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "ww7+gG2J+j0=",
-      "Size": 751305075,
-      "NumberOfArchives": 3393,
-      "SizeOfArchives": 268613980776,
-      "NumberOfInstalledFiles": 579752,
-      "SizeOfInstalledFiles": 486548249359,
-      "TotalSize": 755162230135
+      "Hash": "PYk+/A3PRlE=",
+      "Size": 751144056,
+      "NumberOfArchives": 3392,
+      "SizeOfArchives": 268625778495,
+      "NumberOfInstalledFiles": 579906,
+      "SizeOfInstalledFiles": 486527852089,
+      "TotalSize": 755153630584
     },
-    "version": "2.0.3",
+    "version": "2.0.4",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "0001-01-01T00:00:00",
     "repositoryName": "Scrolls_of_Schtevie"
@@ -115,21 +115,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/pictures/HOH%20Wallpaper.webp",
       "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Hymns-of-Hircine-ReadMe",
-      "download": "https://authored-files.wabbajack.org/Hymns%20of%20Hircine.wabbajack_6f67efec-5e6d-4b97-8f10-d28a3bcf30ad",
+      "download": "https://authored-files.wabbajack.org/Hymns%20of%20Hircine.wabbajack_aa64644e-1aa1-4384-ad77-6ddc88162554",
       "machineURL": "HymnsOfHircine",
       "discordURL": "https://discord.gg/themoddingbordello",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "/6P6lO9KSvk=",
-      "Size": 1121767733,
-      "NumberOfArchives": 3709,
-      "SizeOfArchives": 309009060748,
-      "NumberOfInstalledFiles": 705253,
-      "SizeOfInstalledFiles": 616412549561,
-      "TotalSize": 925421610309
+      "Hash": "bm20ls6WzWY=",
+      "Size": 1121791061,
+      "NumberOfArchives": 3719,
+      "SizeOfArchives": 308950052803,
+      "NumberOfInstalledFiles": 705770,
+      "SizeOfInstalledFiles": 616661649966,
+      "TotalSize": 925611702769
     },
-    "version": "0.9.2",
+    "version": "1.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-08-31T19:21:26.8815607Z",
     "repositoryName": "Scrolls_of_Schtevie"
