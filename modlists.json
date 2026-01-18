@@ -7,8 +7,9 @@
       "github/HerrSchtevie"
     ],
     "game": "skyrimspecialedition",
-    "official": false,
+    "official": true,
     "tags": [
+      "Official",
       "DLC Required",
       "NSFW",
       "BFCO",
