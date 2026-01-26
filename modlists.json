@@ -26,21 +26,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Journals-of-Jyggalag/main/JOJ%20Wallpaper.png",
       "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Journals-of-Jyggalag-ReadMe",
-      "download": "https://authored-files.wabbajack.org/Journals%20of%20Jyggalag.wabbajack_be258157-7395-4a80-8220-a76bdf9f0842",
+      "download": "https://authored-files.wabbajack.org/Journals%20of%20Jyggalag.wabbajack_f86716ef-5a22-4758-b73d-e4209eba8ad3",
       "machineURL": "JournalsOfJyggalag",
       "discordURL": "https://discord.gg/themoddingbordello",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "UtQMjo6RqWI=",
-      "Size": 1301747904,
-      "NumberOfArchives": 3716,
-      "SizeOfArchives": 310318066272,
-      "NumberOfInstalledFiles": 707334,
-      "SizeOfInstalledFiles": 622336142876,
-      "TotalSize": 932654209148
+      "Hash": "38lth04hKx4=",
+      "Size": 1707817911,
+      "NumberOfArchives": 3779,
+      "SizeOfArchives": 315751426800,
+      "NumberOfInstalledFiles": 709245,
+      "SizeOfInstalledFiles": 638237438752,
+      "TotalSize": 953988865552
     },
-    "version": "4.2.0",
+    "version": "5.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-08-31T19:21:26.8815607Z",
     "repositoryName": "Scrolls_of_Schtevie"
@@ -71,21 +71,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Journals-of-Jyggalag/main/TOT%20wallpaper.png",
       "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Tomes-of-Talos-ReadMe",
-      "download": "https://authored-files.wabbajack.org/Tomes%20of%20Talos.wabbajack_f57ab29b-1d9a-4fd8-ac59-7cf2f286b117",
+      "download": "https://authored-files.wabbajack.org/Tomes%20of%20Talos.wabbajack_98222ae3-e5b9-4920-ae4b-1686b9039b62",
       "machineURL": "TomesOfTalos",
       "discordURL": "https://discord.gg/themoddingbordello",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "t3vH9Ohqe0M=",
-      "Size": 754005824,
-      "NumberOfArchives": 3385,
-      "SizeOfArchives": 268773819535,
-      "NumberOfInstalledFiles": 580720,
-      "SizeOfInstalledFiles": 486822092705,
-      "TotalSize": 755595912240
+      "Hash": "jo2rtNNYWdo=",
+      "Size": 810475730,
+      "NumberOfArchives": 3419,
+      "SizeOfArchives": 271396361870,
+      "NumberOfInstalledFiles": 581749,
+      "SizeOfInstalledFiles": 496820989672,
+      "TotalSize": 768217351542
     },
-    "version": "2.1.0",
+    "version": "3.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "0001-01-01T00:00:00",
     "repositoryName": "Scrolls_of_Schtevie"
@@ -116,21 +116,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/pictures/HOH%20Wallpaper.webp",
       "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Hymns-of-Hircine-ReadMe",
-      "download": "https://authored-files.wabbajack.org/Hymns%20of%20Hircine.wabbajack_21c30398-6d9b-4a6b-bc92-95b85f9671ae",
+      "download": "https://authored-files.wabbajack.org/Hymns%20of%20Hircine.wabbajack_350367b2-ebae-46b6-a685-8aaa68122756",
       "machineURL": "HymnsOfHircine",
       "discordURL": "https://discord.gg/themoddingbordello",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "Zr84SLndu/o=",
-      "Size": 1131546982,
-      "NumberOfArchives": 3715,
-      "SizeOfArchives": 307863859324,
-      "NumberOfInstalledFiles": 705819,
-      "SizeOfInstalledFiles": 613797501396,
-      "TotalSize": 921661360720
+      "Hash": "Ua8Mc+RsL+U=",
+      "Size": 1548811622,
+      "NumberOfArchives": 3771,
+      "SizeOfArchives": 313183030402,
+      "NumberOfInstalledFiles": 706796,
+      "SizeOfInstalledFiles": 630365080734,
+      "TotalSize": 943548111136
     },
-    "version": "1.3.0",
+    "version": "2.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-08-31T19:21:26.8815607Z",
     "repositoryName": "Scrolls_of_Schtevie"
