@@ -26,21 +26,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Journals-of-Jyggalag/main/JOJ%20Wallpaper.png",
       "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Journals-of-Jyggalag-ReadMe",
-      "download": "https://authored-files.wabbajack.org/Journals%20of%20Jyggalag.wabbajack_f86716ef-5a22-4758-b73d-e4209eba8ad3",
+      "download": "https://authored-files.wabbajack.org/Journals%20of%20Jyggalag.wabbajack_f67c5e11-b076-46b1-89e9-fa8698cdb41b",
       "machineURL": "JournalsOfJyggalag",
       "discordURL": "https://discord.gg/themoddingbordello",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "38lth04hKx4=",
-      "Size": 1707817911,
-      "NumberOfArchives": 3779,
-      "SizeOfArchives": 315751426800,
-      "NumberOfInstalledFiles": 709245,
-      "SizeOfInstalledFiles": 638237438752,
-      "TotalSize": 953988865552
+      "Hash": "RDbUJJwo+7A=",
+      "Size": 1709807152,
+      "NumberOfArchives": 3794,
+      "SizeOfArchives": 317419764805,
+      "NumberOfInstalledFiles": 710267,
+      "SizeOfInstalledFiles": 643165500021,
+      "TotalSize": 960585264826
     },
-    "version": "5.0.0",
+    "version": "5.1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-08-31T19:21:26.8815607Z",
     "repositoryName": "Scrolls_of_Schtevie"
@@ -71,21 +71,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Journals-of-Jyggalag/main/TOT%20wallpaper.png",
       "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Tomes-of-Talos-ReadMe",
-      "download": "https://authored-files.wabbajack.org/Tomes%20of%20Talos.wabbajack_98222ae3-e5b9-4920-ae4b-1686b9039b62",
+      "download": "https://authored-files.wabbajack.org/Tomes%20of%20Talos.wabbajack_d3d073fe-dd7e-49f4-8f70-395d908d36dd",
       "machineURL": "TomesOfTalos",
       "discordURL": "https://discord.gg/themoddingbordello",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "jo2rtNNYWdo=",
-      "Size": 810475730,
-      "NumberOfArchives": 3419,
-      "SizeOfArchives": 271396361870,
-      "NumberOfInstalledFiles": 581749,
-      "SizeOfInstalledFiles": 496820989672,
-      "TotalSize": 768217351542
+      "Hash": "glhPXnYhexA=",
+      "Size": 811755150,
+      "NumberOfArchives": 3430,
+      "SizeOfArchives": 272657312455,
+      "NumberOfInstalledFiles": 581982,
+      "SizeOfInstalledFiles": 499510969766,
+      "TotalSize": 772168282221
     },
-    "version": "3.0.0",
+    "version": "3.1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "0001-01-01T00:00:00",
     "repositoryName": "Scrolls_of_Schtevie"
@@ -116,21 +116,66 @@
     "links": {
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/pictures/HOH%20Wallpaper.webp",
       "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Hymns-of-Hircine-ReadMe",
-      "download": "https://authored-files.wabbajack.org/Hymns%20of%20Hircine.wabbajack_350367b2-ebae-46b6-a685-8aaa68122756",
+      "download": "https://authored-files.wabbajack.org/Hymns%20of%20Hircine.wabbajack_4703e754-9915-4065-a9df-85f38ebdc22f",
       "machineURL": "HymnsOfHircine",
       "discordURL": "https://discord.gg/themoddingbordello",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "Ua8Mc+RsL+U=",
-      "Size": 1548811622,
-      "NumberOfArchives": 3771,
-      "SizeOfArchives": 313183030402,
-      "NumberOfInstalledFiles": 706796,
-      "SizeOfInstalledFiles": 630365080734,
-      "TotalSize": 943548111136
+      "Hash": "53B4uyzq6vw=",
+      "Size": 1553312300,
+      "NumberOfArchives": 3785,
+      "SizeOfArchives": 314861758821,
+      "NumberOfInstalledFiles": 707789,
+      "SizeOfInstalledFiles": 635336685804,
+      "TotalSize": 950198444625
     },
-    "version": "2.0.0",
+    "version": "2.1.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-08-31T19:21:26.8815607Z",
+    "repositoryName": "Scrolls_of_Schtevie"
+  },
+    {
+    "title": "Mantras of Mara",
+    "description": "Mantras of Mara (MOM) is a NSFW Skyrim modlist with full SexLab integration. Built around themes of love, compassion, and divine unity, it offers a warm and indulgent experience where pleasure becomes an expression of devotion. Centered on Mara\u2019s radiant grace, this list combines sensuality with elegance\u2014featuring an extensive collection of adult content, visual overhauls, and gameplay enhancements\u2014all crafted to embody the beauty and benevolence of the Mother Goddess herself.",
+    "author": "Herr Schtevie",
+    "maintainers": [
+      "github/HerrSchtevie"
+    ],
+    "game": "skyrimspecialedition",
+    "official": true,
+    "tags": [
+      "Official",
+      "DLC Required",
+      "NSFW",
+      "BFCO",
+      "Enairim",
+      "Legacy of the Dragonborn",
+      "New Quests"
+    ],
+    "nsfw": true,
+    "utility_list": false,
+    "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/main/MOM%20Wallpaper.webp",
+      "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Mantras-of-Mara-ReadMe",
+      "download": "https://authored-files.wabbajack.org/Mantras%20of%20Mara.wabbajack_66fce701-d20c-4be2-bfb5-db3e3685154d",
+      "machineURL": "MantrasOfMara",
+      "discordURL": "https://discord.gg/themoddingbordello",
+      "websiteURL": ""
+    },
+    "download_metadata": {
+      "Hash": "boVydKcI5YE=",
+      "Size": 1254021260,
+      "NumberOfArchives": 3832,
+      "SizeOfArchives": 323063037787,
+      "NumberOfInstalledFiles": 700297,
+      "SizeOfInstalledFiles": 677167270586,
+      "TotalSize": 1000230308373
+    },
+    "version": "1.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-08-31T19:21:26.8815607Z",
     "repositoryName": "Scrolls_of_Schtevie"
