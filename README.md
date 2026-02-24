@@ -9,3 +9,5 @@ This repository serves as the central hub for The Modding Bordello modlist ecosy
 If you're looking for setup instructions, list differences, patch notes, customization guides, or troubleshooting help — the Wiki is the authoritative source.
 
 Thus it is written. Thus it shall be.
+
+![image](https://github.com/user-attachments/assets/c2c66d35-a239-4648-bc3b-e05846446da5)  
