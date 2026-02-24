@@ -24,7 +24,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/pictures/JOJ%20Wallpaper.webp",
+      "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/main/assets/JOJ%20Wallpaper.webp",
       "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Journals-of-Jyggalag-ReadMe",
       "download": "https://authored-files.wabbajack.org/Journals%20of%20Jyggalag.wabbajack_b0d3f3e3-0635-4265-99d2-83c31bee18cd",
       "machineURL": "JournalsOfJyggalag",
@@ -69,7 +69,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/pictures/TOT%20Wallpaper.webp",
+      "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/main/assets/TOT%20Wallpaper.webp",
       "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Tomes-of-Talos-ReadMe",
       "download": "https://authored-files.wabbajack.org/Tomes%20of%20Talos.wabbajack_6fae387d-1aa9-4473-a8df-ed05187a3354",
       "machineURL": "TomesOfTalos",
@@ -114,7 +114,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/pictures/HOH%20Wallpaper.webp",
+      "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/main/assets/HOH%20Wallpaper.webp",
       "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Hymns-of-Hircine-ReadMe",
       "download": "https://authored-files.wabbajack.org/Hymns%20of%20Hircine.wabbajack_c0ec01bf-423c-4126-9541-e959e7081499",
       "machineURL": "HymnsOfHircine",
@@ -159,7 +159,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/pictures/MOM%20Wallpaper.webp",
+      "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/main/assets/MOM%20Wallpaper.webp",
       "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Mantras-of-Mara-ReadMe",
       "download": "https://authored-files.wabbajack.org/Mantras%20of%20Mara.wabbajack_29594b1d-6afb-4d64-ae10-261a8a6f5f7a",
       "machineURL": "MantrasOfMara",
