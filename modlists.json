@@ -26,21 +26,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/main/assets/JOJ%20Wallpaper.webp",
       "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Journals-of-Jyggalag-ReadMe",
-      "download": "https://authored-files.wabbajack.org/Journals%20of%20Jyggalag.wabbajack_cbdeb590-d730-4ce1-99a7-bc59dd76f8c5",
+      "download": "https://authored-files.wabbajack.org/Journals%20of%20Jyggalag.wabbajack_55e29922-61f3-47d8-b25f-0a14db86d2d9",
       "machineURL": "JournalsOfJyggalag",
       "discordURL": "https://discord.gg/themoddingbordello",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "Dbd4fno3t4U=",
-      "Size": 1172773312,
-      "NumberOfArchives": 3795,
-      "SizeOfArchives": 320055217520,
-      "NumberOfInstalledFiles": 757394,
-      "SizeOfInstalledFiles": 646099391081,
-      "TotalSize": 966154608601
+      "Hash": "MqG0KWmEZPw=",
+      "Size": 1280258461,
+      "NumberOfArchives": 3799,
+      "SizeOfArchives": 320282985897,
+      "NumberOfInstalledFiles": 760326,
+      "SizeOfInstalledFiles": 646470774366,
+      "TotalSize": 966753760263
     },
-    "version": "6.0.0",
+    "version": "6.1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-08-31T19:21:26.8815607Z",
     "repositoryName": "Scrolls_of_Schtevie"
@@ -71,21 +71,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/main/assets/TOT%20Wallpaper.webp",
       "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Tomes-of-Talos-ReadMe",
-      "download": "https://authored-files.wabbajack.org/Tomes%20of%20Talos.wabbajack_c29c411d-b137-49c3-84df-e8d410b8bb25",
+      "download": "https://authored-files.wabbajack.org/Tomes%20of%20Talos.wabbajack_184b8938-1239-41e0-9b1d-5fbddf56be81",
       "machineURL": "TomesOfTalos",
       "discordURL": "https://discord.gg/themoddingbordello",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "blr4w2m5xtc=",
-      "Size": 645855440,
-      "NumberOfArchives": 3428,
-      "SizeOfArchives": 274688551753,
-      "NumberOfInstalledFiles": 629359,
-      "SizeOfInstalledFiles": 502509828925,
-      "TotalSize": 777198380678
+      "Hash": "tFmlYaJRW/M=",
+      "Size": 846228645,
+      "NumberOfArchives": 3425,
+      "SizeOfArchives": 274887874840,
+      "NumberOfInstalledFiles": 632239,
+      "SizeOfInstalledFiles": 502963969133,
+      "TotalSize": 777851843973
     },
-    "version": "4.0.0",
+    "version": "4.1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "0001-01-01T00:00:00",
     "repositoryName": "Scrolls_of_Schtevie"
@@ -116,21 +116,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/main/assets/HOH%20Wallpaper.webp",
       "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Hymns-of-Hircine-ReadMe",
-      "download": "https://authored-files.wabbajack.org/Hymns%20of%20Hircine.wabbajack_f52f0a3d-c729-48b0-8a44-bad7bdad4c07",
+      "download": "https://authored-files.wabbajack.org/Hymns%20of%20Hircine.wabbajack_7dc218f4-56be-4e4e-b51f-df7af2ddc73d",
       "machineURL": "HymnsOfHircine",
       "discordURL": "https://discord.gg/themoddingbordello",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "4ROxzgW/XR0=",
-      "Size": 1553407956,
-      "NumberOfArchives": 3785,
-      "SizeOfArchives": 314861758821,
-      "NumberOfInstalledFiles": 707787,
-      "SizeOfInstalledFiles": 635336128449,
-      "TotalSize": 950197887270
+      "Hash": "nk9rlFa5k7o=",
+      "Size": 893992870,
+      "NumberOfArchives": 3809,
+      "SizeOfArchives": 317779596380,
+      "NumberOfInstalledFiles": 761983,
+      "SizeOfInstalledFiles": 638266664212,
+      "TotalSize": 956046260592
     },
-    "version": "2.1.1",
+    "version": "3.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-08-31T19:21:26.8815607Z",
     "repositoryName": "Scrolls_of_Schtevie"
@@ -160,26 +160,70 @@
     "links": {
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/main/assets/MOM%20Wallpaper.webp",
       "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Mantras-of-Mara-ReadMe",
-      "download": "https://authored-files.wabbajack.org/Mantras%20of%20Mara.wabbajack_7c29786d-63e0-4057-9d8c-f8f4a8de8a89",
+      "download": "https://authored-files.wabbajack.org/Mantras%20of%20Mara.wabbajack_290f9c36-70d3-480c-b28c-bca4e87b788b",
       "machineURL": "MantrasOfMara",
       "discordURL": "https://discord.gg/themoddingbordello",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "tmjMgmfrILo=",
-      "Size": 672743632,
-      "NumberOfArchives": 3833,
-      "SizeOfArchives": 322377032966,
-      "NumberOfInstalledFiles": 749300,
-      "SizeOfInstalledFiles": 678332254699,
-      "TotalSize": 1000709287665
+      "Hash": "kmXpc8x8RMA=",
+      "Size": 838701854,
+      "NumberOfArchives": 3835,
+      "SizeOfArchives": 323168419757,
+      "NumberOfInstalledFiles": 752167,
+      "SizeOfInstalledFiles": 679443677186,
+      "TotalSize": 1002612096943
     },
-    "version": "2.1.1",
+    "version": "2.2.0",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-08-31T19:21:26.8815607Z",
     "repositoryName": "Scrolls_of_Schtevie"
   },
       {
+    "title": "Diaries of Dibella",
+    "description": "Diaries of Dibella (DOD) is a NSFW Skyrim modlist from The Modding Bordello with full SexLab integration, combining brutal survival mechanics and MCO-driven combat with decadent, unapologetic sensuality. Set in a harsh and demanding world, DOD blends overhauled visuals, punishing progression, immersive survival systems, and an expansive suite of adult content to create an intense and intoxicating experience where beauty, temptation, and danger intertwine beneath the radiant influence of Dibella.",
+    "author": "Herr Schtevie",
+    "maintainers": [
+      "github/HerrSchtevie"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "DLC Required",
+      "NSFW",
+      "Hardcore",
+      "Survival",
+      "Legacy of the Dragonborn",
+      "New Quests"
+    ],
+    "nsfw": true,
+    "utility_list": false,
+    "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/main/assets/DOD%20Wallpaper.webp",
+      "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Diaries-of-Dibella-ReadMe",
+      "download": "https://authored-files.wabbajack.org/Diaries%20of%20Dibella.wabbajack_669d5400-ce8c-40d2-91cc-9af3ce382417",
+      "machineURL": "DiariesOfDibella",
+      "discordURL": "https://discord.gg/themoddingbordello",
+      "websiteURL": ""
+    },
+    "download_metadata": {
+      "Hash": "uxchdRW/+UE=",
+      "Size": 848999336,
+      "NumberOfArchives": 3841,
+      "SizeOfArchives": 323619452074,
+      "NumberOfInstalledFiles": 765967,
+      "SizeOfInstalledFiles": 675234997619,
+      "TotalSize": 998854449693
+    },
+    "version": "1.0.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-08-31T19:21:26.8815607Z",
+    "repositoryName": "Scrolls_of_Schtevie"
+  },
+        {
     "title": "Visions of Vaermina",
     "description": "Visions of Vaermina (VOV) is a visuals-only Skyrim modlist serving as the graphical foundation for Bordello modlists. Focused on visual fidelity, atmosphere, and environmental immersion, VOV delivers enhanced graphics, detailed landscapes, modern lighting, and refined character presentation without gameplay overhauls. OStim and core NSFW frameworks are included as an optional foundation, creating a stable, performance-focused visual baseline upon which other Bordello modlists are built.",
     "author": "Herr Schtevie",
@@ -201,21 +245,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/main/assets/VOV%20Wallpaper.webp",
       "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Visions-of-Vaermina-ReadMe",
-      "download": "https://authored-files.wabbajack.org/Visions%20of%20Vaermina.wabbajack_0912e012-5850-4204-ab9d-92a6f6e0bb08",
+      "download": "https://authored-files.wabbajack.org/Visions%20of%20Vaermina.wabbajack_f8e7e7d2-d094-4de5-83c9-11264e0663aa",
       "machineURL": "VisionsOfVaermina",
       "discordURL": "https://discord.gg/themoddingbordello",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "RGKAo4W7XjA=",
-      "Size": 525970223,
-      "NumberOfArchives": 2205,
-      "SizeOfArchives": 182824605024,
-      "NumberOfInstalledFiles": 380709,
-      "SizeOfInstalledFiles": 288272314990,
-      "TotalSize": 471096920014
+      "Hash": "QMFxlte0f/w=",
+      "Size": 666060688,
+      "NumberOfArchives": 2199,
+      "SizeOfArchives": 182906025122,
+      "NumberOfInstalledFiles": 380787,
+      "SizeOfInstalledFiles": 288515869173,
+      "TotalSize": 471421894295
     },
-    "version": "1.0.0",
+    "version": "1.1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-08-31T19:21:26.8815607Z",
     "repositoryName": "Scrolls_of_Schtevie"
