@@ -26,28 +26,29 @@
     "links": {
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/main/assets/JOJ%20Wallpaper.webp",
       "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Journals-of-Jyggalag-ReadMe",
-      "download": "https://authored-files.wabbajack.org/Journals%20of%20Jyggalag.wabbajack_fa9d5485-481f-4951-ae38-b7e3e9b83b17",
+      "download": "https://authored-files.wabbajack.org/Journals of Jyggalag.wabbajack_a7575025-25df-417c-a45b-f6674e97b9c2",
       "machineURL": "JournalsOfJyggalag",
       "discordURL": "https://discord.gg/themoddingbordello",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "2wanbZBuDoo=",
-      "Size": 1241462759,
-      "NumberOfArchives": 3801,
-      "SizeOfArchives": 320315869185,
-      "NumberOfInstalledFiles": 760365,
-      "SizeOfInstalledFiles": 646482126075,
-      "TotalSize": 966797995260
+      "Hash": "djf/LvWENb8=",
+      "Size": 1180990855,
+      "NumberOfArchives": 3804,
+      "SizeOfArchives": 320281151977,
+      "NumberOfInstalledFiles": 760322,
+      "SizeOfInstalledFiles": 646487946196,
+      "TotalSize": 966769098173
     },
-    "version": "6.1.1",
+    "version": "6.2.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-08-31T19:21:26.8815607Z",
+    "dateUpdated": "2026-04-20T19:10:38.3359684Z",
     "repositoryName": "Scrolls_of_Schtevie"
   },
   {
     "title": "Tomes of Talos",
-    "description": "Tomes of Talos (TOT) is a lore-rich, SFW Skyrim modlist from The Modding Bordello, spun from the foundations of Journals of Jyggalag and designed to deliver a stable, immersive, and cohesive experience focused on storytelling, exploration, and visual fidelity. Every addition has been hand-picked to enhance Skyrim’s atmosphere without breaking its lore or tone.",
+    "description": "Tomes of Talos (TOT) is a lore-rich, SFW Skyrim modlist from The Modding Bordello, spun from the foundations of Journals of Jyggalag and designed to deliver a stable, immersive, and cohesive experience focused on storytelling, exploration, and visual fidelity. Every addition has been hand-picked to enhance Skyrim\u2019s atmosphere without breaking its lore or tone.",
     "author": "Herr Schtevie",
     "maintainers": [
       "github/HerrSchtevie"
@@ -74,7 +75,8 @@
       "download": "https://authored-files.wabbajack.org/Tomes%20of%20Talos.wabbajack_0642a4ea-82ce-4c4d-8bcb-3dcd355bd909",
       "machineURL": "TomesOfTalos",
       "discordURL": "https://discord.gg/themoddingbordello",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "fu/JrxZCAe0=",
@@ -90,7 +92,7 @@
     "dateUpdated": "0001-01-01T00:00:00",
     "repositoryName": "Scrolls_of_Schtevie"
   },
-    {
+  {
     "title": "Hymns of Hircine",
     "description": "Hymns of Hircine (HOH) is an immersive challenge modlist from The Modding Bordello, blending survival mechanics, MCO-driven combat, and optional NSFW elements for a raw and unforgiving experience. Featuring overhauled visuals, harsh survival systems, dynamic encounters, and visceral gameplay, HOH transforms Skyrim into a savage, living wilderness. With balanced progression and refined immersion, it offers a challenging yet captivating journey of endurance and instinct.",
     "author": "Herr Schtevie",
@@ -119,7 +121,8 @@
       "download": "https://authored-files.wabbajack.org/Hymns%20of%20Hircine.wabbajack_26da55bf-577c-400b-844c-8d58afe268fd",
       "machineURL": "HymnsOfHircine",
       "discordURL": "https://discord.gg/themoddingbordello",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "fNuDIe7FBd4=",
@@ -135,9 +138,9 @@
     "dateUpdated": "2025-08-31T19:21:26.8815607Z",
     "repositoryName": "Scrolls_of_Schtevie"
   },
-    {
+  {
     "title": "Mantras of Mara",
-    "description": "Mantras of Mara (MOM) is a NSFW Skyrim modlist from The Modding Bordello with full SexLab integration. Built around themes of love, compassion, and divine unity, it offers a warm and indulgent experience where pleasure becomes an expression of devotion. Centered on Mara’s radiant grace, this list combines sensuality with elegance—featuring an extensive collection of adult content, visual overhauls, and gameplay enhancements.",
+    "description": "Mantras of Mara (MOM) is a NSFW Skyrim modlist from The Modding Bordello with full SexLab integration. Built around themes of love, compassion, and divine unity, it offers a warm and indulgent experience where pleasure becomes an expression of devotion. Centered on Mara\u2019s radiant grace, this list combines sensuality with elegance\u2014featuring an extensive collection of adult content, visual overhauls, and gameplay enhancements.",
     "author": "Herr Schtevie",
     "maintainers": [
       "github/HerrSchtevie"
@@ -163,7 +166,8 @@
       "download": "https://authored-files.wabbajack.org/Mantras%20of%20Mara.wabbajack_354a9435-a0a0-4968-a2ec-e6190942a563",
       "machineURL": "MantrasOfMara",
       "discordURL": "https://discord.gg/themoddingbordello",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "NrYtWF+zXFg=",
@@ -179,7 +183,7 @@
     "dateUpdated": "2025-08-31T19:21:26.8815607Z",
     "repositoryName": "Scrolls_of_Schtevie"
   },
-      {
+  {
     "title": "Diaries of Dibella",
     "description": "Diaries of Dibella (DOD) is a NSFW Skyrim modlist from The Modding Bordello with full SexLab integration, combining brutal survival mechanics and MCO-driven combat with decadent, unapologetic sensuality. Set in a harsh and demanding world, DOD blends overhauled visuals, punishing progression, immersive survival systems, and an expansive suite of adult content to create an intense and intoxicating experience where beauty, temptation, and danger intertwine beneath the radiant influence of Dibella.",
     "author": "Herr Schtevie",
@@ -207,7 +211,8 @@
       "download": "https://authored-files.wabbajack.org/Diaries%20of%20Dibella.wabbajack_02593800-a8ad-445f-ab6f-d01c49c10532",
       "machineURL": "DiariesOfDibella",
       "discordURL": "https://discord.gg/themoddingbordello",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "K7ePP2vpxKo=",
@@ -223,7 +228,7 @@
     "dateUpdated": "2025-08-31T19:21:26.8815607Z",
     "repositoryName": "Scrolls_of_Schtevie"
   },
-        {
+  {
     "title": "Visions of Vaermina",
     "description": "Visions of Vaermina (VOV) is a visuals-only Skyrim modlist serving as the graphical foundation for Bordello modlists. Focused on visual fidelity, atmosphere, and environmental immersion, VOV delivers enhanced graphics, detailed landscapes, modern lighting, and refined character presentation without gameplay overhauls. OStim and core NSFW frameworks are included as an optional foundation, creating a stable, performance-focused visual baseline upon which other Bordello modlists are built.",
     "author": "Herr Schtevie",
@@ -248,7 +253,8 @@
       "download": "https://authored-files.wabbajack.org/Visions%20of%20Vaermina.wabbajack_e2faf488-c3c8-433f-b363-0824b6a388ac",
       "machineURL": "VisionsOfVaermina",
       "discordURL": "https://discord.gg/themoddingbordello",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "Su7OuUPM8Ao=",
