@@ -29,7 +29,7 @@
       "download": "https://authored-files.wabbajack.org/Journals of Jyggalag.wabbajack_a7575025-25df-417c-a45b-f6674e97b9c2",
       "machineURL": "JournalsOfJyggalag",
       "discordURL": "https://discord.gg/themoddingbordello",
-      "websiteURL": "",
+      "websiteURL": "https://www.themoddingbordello.com",
       "nexusCollection": null
     },
     "download_metadata": {
@@ -75,7 +75,7 @@
       "download": "https://authored-files.wabbajack.org/Tomes of Talos.wabbajack_929ae4dd-3d23-4bf6-a5ed-3eb535986531",
       "machineURL": "TomesOfTalos",
       "discordURL": "https://discord.gg/themoddingbordello",
-      "websiteURL": "",
+      "websiteURL": "https://www.themoddingbordello.com",
       "nexusCollection": null
     },
     "download_metadata": {
@@ -121,7 +121,7 @@
       "download": "https://authored-files.wabbajack.org/Hymns of Hircine.wabbajack_c2bef159-c076-4b74-a63f-83112709d5fa",
       "machineURL": "HymnsOfHircine",
       "discordURL": "https://discord.gg/themoddingbordello",
-      "websiteURL": "",
+      "websiteURL": "https://www.themoddingbordello.com",
       "nexusCollection": null
     },
     "download_metadata": {
@@ -162,11 +162,11 @@
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/main/assets/MOM%20Wallpaper.webp",
-      "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Mantras-of-Mara-ReadMe",
+      "readme": "https://www.themoddingbordello.com/modlists/mom/readme",
       "download": "https://authored-files.wabbajack.org/Mantras%20of%20Mara.wabbajack_354a9435-a0a0-4968-a2ec-e6190942a563",
       "machineURL": "MantrasOfMara",
       "discordURL": "https://discord.gg/themoddingbordello",
-      "websiteURL": "",
+      "websiteURL": "https://www.themoddingbordello.com",
       "nexusCollection": null
     },
     "download_metadata": {
@@ -207,11 +207,11 @@
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/main/assets/DOD%20Wallpaper.webp",
-      "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Diaries-of-Dibella-ReadMe",
+      "readme": "https://www.themoddingbordello.com/modlists/dod/readme",
       "download": "https://authored-files.wabbajack.org/Diaries%20of%20Dibella.wabbajack_02593800-a8ad-445f-ab6f-d01c49c10532",
       "machineURL": "DiariesOfDibella",
       "discordURL": "https://discord.gg/themoddingbordello",
-      "websiteURL": "",
+      "websiteURL": "https://www.themoddingbordello.com",
       "nexusCollection": null
     },
     "download_metadata": {
@@ -249,11 +249,11 @@
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/main/assets/VOV%20Wallpaper.webp",
-      "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Visions-of-Vaermina-ReadMe",
+      "readme": "https://www.themoddingbordello.com/modlists/vov/readme",
       "download": "https://authored-files.wabbajack.org/Visions%20of%20Vaermina.wabbajack_e2faf488-c3c8-433f-b363-0824b6a388ac",
       "machineURL": "VisionsOfVaermina",
       "discordURL": "https://discord.gg/themoddingbordello",
-      "websiteURL": "",
+      "websiteURL": "https://www.themoddingbordello.com",
       "nexusCollection": null
     },
     "download_metadata": {
