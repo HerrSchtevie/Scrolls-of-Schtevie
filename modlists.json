@@ -26,22 +26,22 @@
     "links": {
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/main/assets/JOJ%20Wallpaper.webp",
       "readme": "https://www.themoddingbordello.com/modlists/joj/readme",
-      "download": "https://authored-files.wabbajack.org/Journals of Jyggalag.wabbajack_9dcc14fe-40a9-4c86-9a1e-b1a011b5a840",
+      "download": "https://authored-files.wabbajack.org/Journals%20of%20Jyggalag.wabbajack_a2cbf3fa-47fa-465a-9678-b06fe219c6b9",
       "machineURL": "JournalsOfJyggalag",
       "discordURL": "https://discord.gg/themoddingbordello",
       "websiteURL": "https://www.themoddingbordello.com",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "viqK/NlDFTM=",
-      "Size": 1189047674,
-      "NumberOfArchives": 3803,
-      "SizeOfArchives": 319613803431,
-      "NumberOfInstalledFiles": 759951,
-      "SizeOfInstalledFiles": 644086795927,
-      "TotalSize": 963700599358
+      "Hash": "mRkHWh0MeWg=",
+      "Size": 1180996773,
+      "NumberOfArchives": 3805,
+      "SizeOfArchives": 320293582766,
+      "NumberOfInstalledFiles": 760382,
+      "SizeOfInstalledFiles": 646521378154,
+      "TotalSize": 966814960920
     },
-    "version": "6.3.0",
+    "version": "6.2.2",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2026-05-07T17:25:26.3690342Z",
     "repositoryName": "Scrolls_of_Schtevie"
@@ -72,22 +72,22 @@
     "links": {
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/main/assets/TOT%20Wallpaper.webp",
       "readme": "https://www.themoddingbordello.com/modlists/tot/readme",
-      "download": "https://authored-files.wabbajack.org/Tomes of Talos.wabbajack_91b32c97-3ab0-40a3-8f4d-82e24d830e2a",
+      "download": "https://authored-files.wabbajack.org/Tomes%20of%20Talos.wabbajack_8b7707f0-ef1f-4f5b-9230-4080e52e7680",
       "machineURL": "TomesOfTalos",
       "discordURL": "https://discord.gg/themoddingbordello",
       "websiteURL": "https://www.themoddingbordello.com",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "Pc7lt15eXkM=",
-      "Size": 785078529,
-      "NumberOfArchives": 3428,
-      "SizeOfArchives": 274153749950,
-      "NumberOfInstalledFiles": 631751,
-      "SizeOfInstalledFiles": 500524269532,
-      "TotalSize": 774678019482
+      "Hash": "bTibo95nAfs=",
+      "Size": 790276738,
+      "NumberOfArchives": 3431,
+      "SizeOfArchives": 274849297946,
+      "NumberOfInstalledFiles": 632256,
+      "SizeOfInstalledFiles": 503029732927,
+      "TotalSize": 777879030873
     },
-    "version": "4.3.0",
+    "version": "4.2.2",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2026-05-07T17:33:14.4003667Z",
     "repositoryName": "Scrolls_of_Schtevie"
@@ -118,22 +118,22 @@
     "links": {
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/main/assets/HOH%20Wallpaper.webp",
       "readme": "https://www.themoddingbordello.com/modlists/hoh/readme",
-      "download": "https://authored-files.wabbajack.org/Hymns of Hircine.wabbajack_60a251ae-3527-447c-bc8b-fe2774be801a",
+      "download": "https://authored-files.wabbajack.org/Hymns%20of%20Hircine.wabbajack_91af1fea-f0e7-4e44-8525-61e9fb5cd7c2",
       "machineURL": "HymnsOfHircine",
       "discordURL": "https://discord.gg/themoddingbordello",
       "websiteURL": "https://www.themoddingbordello.com",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "GbmW3uRus64=",
-      "Size": 788365811,
-      "NumberOfArchives": 3808,
-      "SizeOfArchives": 317075294935,
-      "NumberOfInstalledFiles": 761246,
-      "SizeOfInstalledFiles": 635867074561,
-      "TotalSize": 952942369496
+      "Hash": "WkUMAOzMbiA=",
+      "Size": 792850199,
+      "NumberOfArchives": 3812,
+      "SizeOfArchives": 317775896050,
+      "NumberOfInstalledFiles": 761705,
+      "SizeOfInstalledFiles": 638309374206,
+      "TotalSize": 956085270256
     },
-    "version": "3.2.0",
+    "version": "3.1.2",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2026-05-07T17:41:57.4693407Z",
     "repositoryName": "Scrolls_of_Schtevie"
@@ -163,22 +163,22 @@
     "links": {
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/main/assets/MOM%20Wallpaper.webp",
       "readme": "https://www.themoddingbordello.com/modlists/mom/readme",
-      "download": "https://authored-files.wabbajack.org/Mantras of Mara.wabbajack_04c2dbf9-c17b-4820-abe3-bc3f42795778",
+      "download": "https://authored-files.wabbajack.org/Mantras%20of%20Mara.wabbajack_339d4aab-e0a6-4298-8298-21ed7d128a13",
       "machineURL": "MantrasOfMara",
       "discordURL": "https://discord.gg/themoddingbordello",
       "websiteURL": "https://www.themoddingbordello.com",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "g1p1UDFwyxQ=",
-      "Size": 740732550,
-      "NumberOfArchives": 3839,
-      "SizeOfArchives": 322528324631,
-      "NumberOfInstalledFiles": 751535,
-      "SizeOfInstalledFiles": 676963985141,
-      "TotalSize": 999492309772
+      "Hash": "hlz2kdRtodc=",
+      "Size": 739208680,
+      "NumberOfArchives": 3841,
+      "SizeOfArchives": 323159700756,
+      "NumberOfInstalledFiles": 751976,
+      "SizeOfInstalledFiles": 679434029086,
+      "TotalSize": 1002593729842
     },
-    "version": "2.4.0",
+    "version": "2.3.2",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2026-05-07T17:49:38.1877457Z",
     "repositoryName": "Scrolls_of_Schtevie"
@@ -208,22 +208,22 @@
     "links": {
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/main/assets/DOD%20Wallpaper.webp",
       "readme": "https://www.themoddingbordello.com/modlists/dod/readme",
-      "download": "https://authored-files.wabbajack.org/Diaries of Dibella.wabbajack_df82d9a7-80ba-42a2-939b-60821862a5df",
+      "download": "https://authored-files.wabbajack.org/Diaries%20of%20Dibella.wabbajack_96943571-f6d0-44e8-aca8-5558747e53cc",
       "machineURL": "DiariesOfDibella",
       "discordURL": "https://discord.gg/themoddingbordello",
       "websiteURL": "https://www.themoddingbordello.com",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "QTvXEo2BK3g=",
-      "Size": 750519224,
-      "NumberOfArchives": 3840,
-      "SizeOfArchives": 323006772524,
-      "NumberOfInstalledFiles": 764851,
-      "SizeOfInstalledFiles": 672939743319,
-      "TotalSize": 995946515843
+      "Hash": "RjKJOhYIt2M=",
+      "Size": 750491899,
+      "NumberOfArchives": 3843,
+      "SizeOfArchives": 323664684184,
+      "NumberOfInstalledFiles": 765318,
+      "SizeOfInstalledFiles": 675351822205,
+      "TotalSize": 999016506389
     },
-    "version": "1.2.0",
+    "version": "1.1.2",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2026-05-07T17:58:02.7340074Z",
     "repositoryName": "Scrolls_of_Schtevie"
@@ -250,22 +250,22 @@
     "links": {
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/main/assets/VOV%20Wallpaper.webp",
       "readme": "https://www.themoddingbordello.com/modlists/vov/readme",
-      "download": "https://authored-files.wabbajack.org/Visions of Vaermina.wabbajack_e0d159ce-cd8a-4330-98a4-2f0ca16224c9",
+      "download": "https://authored-files.wabbajack.org/Visions%20of%20Vaermina.wabbajack_3210d931-52c6-4a6e-8b79-11ee4ed0ce80",
       "machineURL": "VisionsOfVaermina",
       "discordURL": "https://discord.gg/themoddingbordello",
       "websiteURL": "https://www.themoddingbordello.com",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "S6ojF/oZblU=",
-      "Size": 557099298,
-      "NumberOfArchives": 2207,
-      "SizeOfArchives": 182894876543,
-      "NumberOfInstalledFiles": 380323,
-      "SizeOfInstalledFiles": 288191871132,
-      "TotalSize": 471086747675
+      "Hash": "wiPKspUHFAk=",
+      "Size": 569399806,
+      "NumberOfArchives": 2205,
+      "SizeOfArchives": 182879623982,
+      "NumberOfInstalledFiles": 380842,
+      "SizeOfInstalledFiles": 288583565696,
+      "TotalSize": 471463189678
     },
-    "version": "1.3.0",
+    "version": "1.2.2",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2026-05-07T18:04:27.6927982Z",
     "repositoryName": "Scrolls_of_Schtevie"
