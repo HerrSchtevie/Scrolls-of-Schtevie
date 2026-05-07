@@ -118,24 +118,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/main/assets/HOH%20Wallpaper.webp",
       "readme": "https://www.themoddingbordello.com/modlists/hoh/readme",
-      "download": "https://authored-files.wabbajack.org/Hymns of Hircine.wabbajack_2fe7baa2-8f1a-4ed9-a612-5ef3c1bf220e",
+      "download": "https://authored-files.wabbajack.org/Hymns of Hircine.wabbajack_60a251ae-3527-447c-bc8b-fe2774be801a",
       "machineURL": "HymnsOfHircine",
       "discordURL": "https://discord.gg/themoddingbordello",
       "websiteURL": "https://www.themoddingbordello.com",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "WkUMAOzMbiA=",
-      "Size": 792850199,
-      "NumberOfArchives": 3812,
-      "SizeOfArchives": 317775896050,
-      "NumberOfInstalledFiles": 761705,
-      "SizeOfInstalledFiles": 638309374206,
-      "TotalSize": 956085270256
+      "Hash": "GbmW3uRus64=",
+      "Size": 788365811,
+      "NumberOfArchives": 3808,
+      "SizeOfArchives": 317075294935,
+      "NumberOfInstalledFiles": 761246,
+      "SizeOfInstalledFiles": 635867074561,
+      "TotalSize": 952942369496
     },
-    "version": "3.1.2",
+    "version": "3.2.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-04-25T20:48:48.8296667Z",
+    "dateUpdated": "2026-05-07T17:41:57.4693407Z",
     "repositoryName": "Scrolls_of_Schtevie"
   },
   {
