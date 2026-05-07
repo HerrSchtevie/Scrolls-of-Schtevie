@@ -250,24 +250,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/main/assets/VOV%20Wallpaper.webp",
       "readme": "https://www.themoddingbordello.com/modlists/vov/readme",
-      "download": "https://authored-files.wabbajack.org/Visions of Vaermina.wabbajack_1e921180-63c1-4414-ad65-d3072e5941ca",
+      "download": "https://authored-files.wabbajack.org/Visions of Vaermina.wabbajack_e0d159ce-cd8a-4330-98a4-2f0ca16224c9",
       "machineURL": "VisionsOfVaermina",
       "discordURL": "https://discord.gg/themoddingbordello",
       "websiteURL": "https://www.themoddingbordello.com",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "wiPKspUHFAk=",
-      "Size": 569399806,
-      "NumberOfArchives": 2205,
-      "SizeOfArchives": 182879623982,
-      "NumberOfInstalledFiles": 380842,
-      "SizeOfInstalledFiles": 288583565696,
-      "TotalSize": 471463189678
+      "Hash": "S6ojF/oZblU=",
+      "Size": 557099298,
+      "NumberOfArchives": 2207,
+      "SizeOfArchives": 182894876543,
+      "NumberOfInstalledFiles": 380323,
+      "SizeOfInstalledFiles": 288191871132,
+      "TotalSize": 471086747675
     },
-    "version": "1.2.2",
+    "version": "1.3.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-04-25T21:16:13.8026404Z",
+    "dateUpdated": "2026-05-07T18:04:27.6927982Z",
     "repositoryName": "Scrolls_of_Schtevie"
   }
 ]
