@@ -163,24 +163,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/main/assets/MOM%20Wallpaper.webp",
       "readme": "https://www.themoddingbordello.com/modlists/mom/readme",
-      "download": "https://authored-files.wabbajack.org/Mantras%20of%20Mara.wabbajack_339d4aab-e0a6-4298-8298-21ed7d128a13",
+      "download": "https://authored-files.wabbajack.org/Mantras of Mara.wabbajack_13d71454-ef19-4c37-8ecc-b7a34e131c86",
       "machineURL": "MantrasOfMara",
       "discordURL": "https://discord.gg/themoddingbordello",
       "websiteURL": "https://www.themoddingbordello.com",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "hlz2kdRtodc=",
-      "Size": 739208680,
-      "NumberOfArchives": 3841,
-      "SizeOfArchives": 323159700756,
-      "NumberOfInstalledFiles": 751976,
-      "SizeOfInstalledFiles": 679434029086,
-      "TotalSize": 1002593729842
+      "Hash": "xE9wibsjjZA=",
+      "Size": 689187359,
+      "NumberOfArchives": 3838,
+      "SizeOfArchives": 322386072992,
+      "NumberOfInstalledFiles": 751427,
+      "SizeOfInstalledFiles": 677498960956,
+      "TotalSize": 999885033948
     },
-    "version": "2.3.2",
+    "version": "2.4.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-05-07T17:49:38.1877457Z",
+    "dateUpdated": "2026-05-09T20:48:14.928459Z",
     "repositoryName": "Scrolls_of_Schtevie"
   },
   {
