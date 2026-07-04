@@ -26,24 +26,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/main/assets/JOJ%20Wallpaper.webp",
       "readme": "https://www.themoddingbordello.com/modlists/joj/readme",
-      "download": "https://authored-files.wabbajack.org/Journals of Jyggalag.wabbajack_d669264a-a6e5-4a3e-926d-4039add5f7de",
+      "download": "https://authored-files.wabbajack.org/Journals of Jyggalag.wabbajack_98d8bc11-549c-48d0-9117-147c16d0a9a4",
       "machineURL": "JournalsOfJyggalag",
       "discordURL": "https://discord.gg/themoddingbordello",
       "websiteURL": "https://www.themoddingbordello.com",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "odR3rFjtOSE=",
-      "Size": 1161053114,
-      "NumberOfArchives": 3804,
-      "SizeOfArchives": 318019217535,
-      "NumberOfInstalledFiles": 766860,
-      "SizeOfInstalledFiles": 642545987912,
-      "TotalSize": 960565205447
+      "Hash": "rDvq5hYGNXQ=",
+      "Size": 1161661133,
+      "NumberOfArchives": 3802,
+      "SizeOfArchives": 318400767683,
+      "NumberOfInstalledFiles": 768011,
+      "SizeOfInstalledFiles": 643829059103,
+      "TotalSize": 962229826786
     },
-    "version": "6.6.0",
+    "version": "6.7.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-06-15T00:56:56.3855297Z",
+    "dateUpdated": "2026-07-04T02:13:19.3858591Z",
     "repositoryName": "Scrolls_of_Schtevie"
   },
   {
