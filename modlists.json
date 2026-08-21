@@ -208,24 +208,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/main/assets/DOD%20Wallpaper.webp",
       "readme": "https://www.themoddingbordello.com/modlists/dod/readme",
-      "download": "https://authored-files.wabbajack.org/Diaries of Dibella.wabbajack_0c9cbd6f-6a52-446e-ae6c-b952fe2be3e5",
+      "download": "https://authored-files.wabbajack.org/Diaries of Dibella.wabbajack_f080aa5b-37ce-46f9-ad82-b6441c7f718f",
       "machineURL": "DiariesOfDibella",
       "discordURL": "https://discord.gg/themoddingbordello",
       "websiteURL": "https://www.themoddingbordello.com",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "t4oAI9eJHfo=",
-      "Size": 704952774,
-      "NumberOfArchives": 3840,
-      "SizeOfArchives": 323321600582,
-      "NumberOfInstalledFiles": 774468,
-      "SizeOfInstalledFiles": 678993250205,
-      "TotalSize": 1002314850787
+      "Hash": "DoBZWO4nESY=",
+      "Size": 1362728950,
+      "NumberOfArchives": 3854,
+      "SizeOfArchives": 324391342518,
+      "NumberOfInstalledFiles": 807105,
+      "SizeOfInstalledFiles": 681778891458,
+      "TotalSize": 1006170233976
     },
-    "version": "1.7.1",
+    "version": "2.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-08-05T00:04:14.0891828Z",
+    "dateUpdated": "2026-08-21T18:02:59.2841713Z",
     "repositoryName": "Scrolls_of_Schtevie"
   },
   {
