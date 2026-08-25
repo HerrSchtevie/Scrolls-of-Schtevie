@@ -155,7 +155,7 @@
       "Legacy of the Dragonborn",
       "New Quests"
     ],
-    "nsfw": false,
+    "nsfw": true,
     "utility_list": false,
     "image_contains_title": false,
     "DisplayVersionOnlyInInstallerView": false,
