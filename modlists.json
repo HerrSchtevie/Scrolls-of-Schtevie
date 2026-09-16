@@ -26,24 +26,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/main/assets/JOJ%20Wallpaper.webp",
       "readme": "https://www.themoddingbordello.com/modlists/joj/readme",
-      "download": "https://authored-files.wabbajack.org/Journals of Jyggalag.wabbajack_e8976976-561c-4ab2-bf71-84c2c86a4adf",
+      "download": "https://authored-files.wabbajack.org/Journals of Jyggalag.wabbajack_01d4d0e4-300b-4489-929b-daf228f67e22",
       "machineURL": "JournalsOfJyggalag",
       "discordURL": "https://discord.gg/themoddingbordello",
       "websiteURL": "https://www.themoddingbordello.com",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "ZV5CDwh9Ifs=",
-      "Size": 1311458617,
-      "NumberOfArchives": 3776,
-      "SizeOfArchives": 325239194125,
-      "NumberOfInstalledFiles": 838385,
-      "SizeOfInstalledFiles": 659685321367,
-      "TotalSize": 984924515492
+      "Hash": "cmdjblXYtTc=",
+      "Size": 1737235853,
+      "NumberOfArchives": 3753,
+      "SizeOfArchives": 317905839568,
+      "NumberOfInstalledFiles": 686040,
+      "SizeOfInstalledFiles": 619134152085,
+      "TotalSize": 937039991653
     },
-    "version": "7.3.0",
+    "version": "8.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-09-07T01:45:13.7919380Z",
+    "dateUpdated": "2026-09-16T18:31:02.29714Z",
     "repositoryName": "Scrolls_of_Schtevie"
   },
   {
@@ -89,7 +89,7 @@
     },
     "version": "5.3.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-09-07T01:53:08.5948910Z",
+    "dateUpdated": "2026-09-07T01:53:08.594891Z",
     "repositoryName": "Scrolls_of_Schtevie"
   },
   {
@@ -135,7 +135,7 @@
     },
     "version": "4.3.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-09-07T02:03:10.2503960Z",
+    "dateUpdated": "2026-09-07T02:03:10.250396Z",
     "repositoryName": "Scrolls_of_Schtevie"
   },
   {
@@ -180,7 +180,7 @@
     },
     "version": "3.4.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-09-07T02:12:41.1679340Z",
+    "dateUpdated": "2026-09-07T02:12:41.167934Z",
     "repositoryName": "Scrolls_of_Schtevie"
   },
   {
@@ -225,7 +225,7 @@
     },
     "version": "2.4.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-09-07T02:22:54.1866290Z",
+    "dateUpdated": "2026-09-07T02:22:54.186629Z",
     "repositoryName": "Scrolls_of_Schtevie"
   },
   {
