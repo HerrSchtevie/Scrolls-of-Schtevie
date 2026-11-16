@@ -72,24 +72,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/main/assets/TOT%20Wallpaper.webp",
       "readme": "https://www.themoddingbordello.com/modlists/tot/readme",
-      "download": "https://authored-files.wabbajack.org/Tomes of Talos.wabbajack_e90e2522-62d7-4b06-93cc-7bcd994e5dce",
+      "download": "https://authored-files.wabbajack.org/Tomes of Talos.wabbajack_659b7afa-245a-439b-8bd2-c44c5b53319c",
       "machineURL": "TomesOfTalos",
       "discordURL": "https://discord.gg/themoddingbordello",
       "websiteURL": "https://www.themoddingbordello.com",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "zslMwdG83Eo=",
-      "Size": 843430340,
-      "NumberOfArchives": 3352,
-      "SizeOfArchives": 265806228434,
-      "NumberOfInstalledFiles": 542806,
-      "SizeOfInstalledFiles": 457162032859,
-      "TotalSize": 722968261293
+      "Hash": "CqCOmVKisaU=",
+      "Size": 887009337,
+      "NumberOfArchives": 3304,
+      "SizeOfArchives": 258237988714,
+      "NumberOfInstalledFiles": 538837,
+      "SizeOfInstalledFiles": 459252299039,
+      "TotalSize": 717490287753
     },
-    "version": "6.0.2",
+    "version": "6.1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-10-01T21:08:01.4706796Z",
+    "dateUpdated": "2026-11-16T23:16:53.0242625Z",
     "repositoryName": "Scrolls_of_Schtevie"
   },
   {
